@@ -10,8 +10,10 @@ Throughout my academic and professional journey I’ve been developing knowledge
 
 
 Currently:
-- 🔭 I’m working on developing tools to assess the techno-economic feasibility of renewable energy plants (among other projects);
-- 🌱 I’m learning about Cloud Development (Node.js and React);
+- ⚙️ I’m working on developing visualization dashboards to assess the techno-economic feasibility of renewable energy plants;
+- 🗺️ I’m developing dynamic maps to display geolocated data, combining different projects, data types and temporal resolutions;
+- 🌱 I’m learning about UX/UI in Udemy;
+- 🚀 I’m doing some freelancing jobs in web developing, design and photography;
 - 💬 Languages, Frameworks, Platforms and Libraries I use or I'm currently practicing:
 <p>
   <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                             <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
